@@ -1,2 +1,1 @@
-# RetinalImageSynthesis
-Retinal Image Synthesis
+
